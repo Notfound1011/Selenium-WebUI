@@ -541,10 +541,9 @@ public class DriverManager implements FailureAction {
 		File file = ((TakesScreenshot) driver).getScreenshotAs(OutputType.FILE);
 		try {
 			String dateandtime = Util.getCurrentDateAndTime();
-			String fileName = ".\\screenshot\\" + method + "_" + dateandtime
-					+ ".png";
-			// String fileName = ".\\screenshot\\" + dir + "\\" + method + "_" +
-			// Instant.now().getEpochSecond() + ".png";
+			String fileName = "./screenshot/" + method + "_" + dateandtime+ ".png";
+
+//			String fileName = ".\\screenshot\\" + method + "_" + dateandtime+ ".png";
 			logger.info("save screenshot to: " + "screenshot/" + method + "_"
 					+ dateandtime + ".png");
 			FileUtils.copyFile(file, new File(fileName));

@@ -61,12 +61,12 @@ public class Config {
             chromeOptions = new ChromeOptions();
             chromeOptions.addArguments("--ignore-certificate-errors");
             chromeOptions.addArguments("--lang=en");
-            chromeOptions.addArguments("--no-sandbox");// 解决DevToolsActivePort文件不存在的报错
-            chromeOptions.addArguments("window-size=1920x3000"); //指定浏览器分辨率
-            chromeOptions.addArguments("--disable-gpu"); // 谷歌文档提到需要加上这个属性来规避bug
-            chromeOptions.addArguments("--hide-scrollbars"); //隐藏滚动条, 应对一些特殊页面
-            chromeOptions.addArguments("blink-settings=imagesEnabled=false");  //不加载图片, 提升速度
-            chromeOptions.addArguments("--headless"); //浏览器不提供可视化页面. linux下如果系统不支持可视化不加这条会启动失败
+//            chromeOptions.addArguments("--no-sandbox");// 解决DevToolsActivePort文件不存在的报错
+//            chromeOptions.addArguments("window-size=1920x3000"); //指定浏览器分辨率
+//            chromeOptions.addArguments("--disable-gpu"); // 谷歌文档提到需要加上这个属性来规避bug
+//            chromeOptions.addArguments("--hide-scrollbars"); //隐藏滚动条, 应对一些特殊页面
+//            chromeOptions.addArguments("blink-settings=imagesEnabled=false");  //不加载图片, 提升速度
+//            chromeOptions.addArguments("--headless"); //浏览器不提供可视化页面. linux下如果系统不支持可视化不加这条会启动失败
         }
         return chromeOptions;
     }

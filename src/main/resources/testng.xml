@@ -7,10 +7,10 @@
 
     <test name =" Selenium UI Test" preserve-order="true" >
     <classes>
-        <class name="com.selenium.webui.page.TestHomeSearchPage">
+        <class name="com.selenium.webui.page.TestHomePage">
             <methods>
-                <include name="testSearch"/>
-                <include name="testClick"/>
+                <include name="testSelectCity"/>
+                <include name="testSelectKeyword"/>
             </methods>
         </class>
     </classes>
@@ -27,9 +27,9 @@
         </classes>
     </test>
 
-    <parameter name="host" value="www.baidu.com" />
+    <parameter name="host" value="inn.ctrip.com/onlineinn/index" />
     <parameter name="browser" value="chrome"/>
-    <parameter name="words" value="selenium"/>
+    <parameter name="words" value="迪士尼"/>
 
 
 </suite>

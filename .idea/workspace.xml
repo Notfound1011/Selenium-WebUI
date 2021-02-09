@@ -10,73 +10,24 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0b3e7dee-77e7-4151-8960-605940bb3da9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="0b3e7dee-77e7-4151-8960-605940bb3da9" name="Default Changelist" comment="更新md文档、调整测试用例、截图保存路径">
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium-WebUI.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/imagesMD/image-20210209182527553.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/imagesMD/image-20210209183223161.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/selenium/webui/core/Config.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/selenium/webui/core/Config.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/selenium/webui/core/DriverManager.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/selenium/webui/core/DriverManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/selenium/webui/page/HomeSearchPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/selenium/webui/page/HomePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/selenium/webui/page/Page.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/selenium/webui/page/Page.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/testng.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/selenium/webui/page/TestHomeSearchPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/selenium/webui/page/TestHomePage.java" afterDir="false" />
     </list>
-    <list id="e04c868e-0229-4945-8d26-072eaf9db0d6" name="Revert &quot;first commit&quot;" comment="Revert &quot;first commit&quot;&#10;&#10;This reverts commit 34fdcf5d">
-      <change beforePath="$PROJECT_DIR$/.\screenshot\Exception_weIsDisplayed_20210209162802.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.\screenshot\Exception_weIsDisplayed_20210209162804.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.\screenshot\Exception_weIsDisplayed_20210209165125.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.\screenshot\Exception_weIsDisplayed_20210209165127.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.\screenshot\Exception_weIsDisplayed_20210209171530.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.\screenshot\Exception_weIsDisplayed_20210209171531.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.\screenshot\Exception_weIsDisplayed_20210209180816.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.\screenshot\Exception_weIsDisplayed_20210209180818.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.\screenshot\Exception_weIsDisplayed_20210209181346.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.\screenshot\Exception_weIsDisplayed_20210209181348.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.\screenshot\Exception_weIsDisplayed_20210209182315.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.\screenshot\Exception_weIsDisplayed_20210209182316.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.\screenshot\Exception_weIsDisplayed_20210209182442.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.\screenshot\Exception_weIsDisplayed_20210209182443.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.\screenshot\Exception_weIsDisplayed_20210209182452.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.\screenshot\Exception_weIsDisplayed_20210209182454.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.\screenshot\Execption_elementExist_20210205163829.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.\screenshot\Execption_navigateTo_20210205163757.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.\screenshot\Execption_weIsDisplayed_20210205163921.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.\screenshot\Execption_weIsDisplayed_20210205163922.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.\screenshot\Execption_weIsDisplayed_20210205163955.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.\screenshot\Execption_weIsDisplayed_20210205164031.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.\screenshot\Execption_weIsDisplayed_20210205164327.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.\screenshot\Execption_weIsDisplayed_20210208175920.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.\screenshot\Execption_weIsDisplayed_20210208175922.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.\screenshot\Execption_weIsDisplayed_20210209101555.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.\screenshot\Execption_weIsDisplayed_20210209101556.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-    </list>
-    <list id="daa710f9-89f5-4624-a53b-405d5ddf6116" name="Revert &quot;Revert &quot;commit&quot;&quot;" comment="Revert &quot;Revert &quot;commit&quot;&quot;&#10;&#10;This reverts commit 408460f3">
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/selenium/webui/Browser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/selenium/webui/LocatorType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/selenium/webui/core/Config.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/selenium/webui/core/DriverManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/selenium/webui/core/FailureAction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/selenium/webui/core/WebDriverFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/selenium/webui/page/HomeSearchPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/selenium/webui/page/Page.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/selenium/webui/page/ReturnValue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/selenium/webui/utils/Constants.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/selenium/webui/utils/FileManager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/selenium/webui/utils/JsonFileParser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/selenium/webui/utils/ResourcePathParser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/selenium/webui/utils/SshCmd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/selenium/webui/utils/Util.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/log4j.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/testng.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/webdriver/IEDriverServer.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/webdriver/chromedriver" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/webdriver/chromedriver.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/webdriver/geckodriver" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/webdriver/geckodriver_0.11.0.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/webdriver/geckodriver_0.17.0.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/selenium/webui/TestPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/selenium/webui/page/TestHomeSearchPage.java" afterDir="false" />
-    </list>
+    <list id="e04c868e-0229-4945-8d26-072eaf9db0d6" name="Revert &quot;first commit&quot;" comment="Revert &quot;first commit&quot;&#10;&#10;This reverts commit 34fdcf5d" />
+    <list id="daa710f9-89f5-4624-a53b-405d5ddf6116" name="Revert &quot;Revert &quot;commit&quot;&quot;" comment="Revert &quot;Revert &quot;commit&quot;&quot;&#10;&#10;This reverts commit 408460f3" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -106,13 +57,17 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="TODO_SCOPE" value="All Places" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="editing.templates" />
   </component>
   <component name="RecentsManager">
@@ -214,7 +169,9 @@
       <option name="presentableId" value="Default" />
       <updated>1612320994647</updated>
       <workItem from="1612320998764" duration="16255000" />
-      <workItem from="1612776881771" duration="28219000" />
+      <workItem from="1612776881771" duration="28629000" />
+      <workItem from="1612879421854" duration="112000" />
+      <workItem from="1612879555027" duration="11578000" />
     </task>
     <task id="LOCAL-00001" summary="Revert &quot;commit&quot;">
       <created>1612867269774</created>
@@ -223,7 +180,14 @@
       <option name="project" value="LOCAL" />
       <updated>1612867269774</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="idea settings">
+      <created>1612867605212</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1612867605212</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -239,12 +203,19 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Revert &quot;commit&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="Revert &quot;commit&quot;" />
+    <MESSAGE value="idea settings" />
+    <MESSAGE value="更新md文档、调整测试用例、截图保存路径" />
+    <option name="LAST_COMMIT_MESSAGE" value="更新md文档、调整测试用例、截图保存路径" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="208" y="23" width="1024" height="832" key="#Project_Structure" timestamp="1612886181389">
+      <screen x="0" y="23" width="1440" height="832" />
+    </state>
+    <state x="208" y="23" width="1024" height="832" key="#Project_Structure/0.23.1440.832@0.23.1440.832" timestamp="1612886181389" />
     <state x="456" y="217" key="#com.intellij.codeInsight.template.impl.EditVariableDialog" timestamp="1612510855857">
       <screen x="0" y="23" width="1440" height="832" />
     </state>
@@ -253,6 +224,14 @@
       <screen x="0" y="23" width="1440" height="832" />
     </state>
     <state x="184" y="99" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.832@0.23.1440.832" timestamp="1612860931308" />
+    <state x="100" y="123" width="1240" height="632" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1612889423236">
+      <screen x="0" y="23" width="1440" height="832" />
+    </state>
+    <state x="100" y="123" width="1240" height="632" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.23.1440.832@0.23.1440.832" timestamp="1612889423236" />
+    <state x="533" y="122" key="#com.intellij.ide.util.MemberChooser" timestamp="1612881964928">
+      <screen x="0" y="23" width="1440" height="832" />
+    </state>
+    <state x="533" y="122" key="#com.intellij.ide.util.MemberChooser/0.23.1440.832@0.23.1440.832" timestamp="1612881964928" />
     <state x="287" y="26" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1612861834529">
       <screen x="0" y="23" width="1440" height="832" />
     </state>
@@ -261,6 +240,10 @@
       <screen x="0" y="23" width="1440" height="832" />
     </state>
     <state x="479" y="303" width="482" height="275" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.23.1440.832@0.23.1440.832" timestamp="1612840788365" />
+    <state x="353" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1612880242929">
+      <screen x="0" y="23" width="1440" height="832" />
+    </state>
+    <state x="353" y="23" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.23.1440.832@0.23.1440.832" timestamp="1612880242929" />
     <state x="458" y="191" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1612854949659">
       <screen x="0" y="23" width="1440" height="832" />
     </state>
@@ -269,38 +252,38 @@
       <screen x="0" y="23" width="1440" height="832" />
     </state>
     <state x="296" y="23" key="CommitChangelistDialog2/0.23.1440.832@0.23.1440.832" timestamp="1612867310822" />
-    <state width="1396" height="209" key="GridCell.Tab.0.bottom" timestamp="1612866879519">
+    <state width="1396" height="210" key="GridCell.Tab.0.bottom" timestamp="1612891139282">
       <screen x="0" y="23" width="1440" height="832" />
     </state>
-    <state width="1396" height="209" key="GridCell.Tab.0.bottom/0.23.1440.832@0.23.1440.832" timestamp="1612866879519" />
-    <state width="1396" height="209" key="GridCell.Tab.0.center" timestamp="1612866879517">
+    <state width="1396" height="210" key="GridCell.Tab.0.bottom/0.23.1440.832@0.23.1440.832" timestamp="1612891139282" />
+    <state width="1396" height="210" key="GridCell.Tab.0.center" timestamp="1612891139281">
       <screen x="0" y="23" width="1440" height="832" />
     </state>
-    <state width="1396" height="209" key="GridCell.Tab.0.center/0.23.1440.832@0.23.1440.832" timestamp="1612866879517" />
-    <state width="1396" height="209" key="GridCell.Tab.0.left" timestamp="1612866879516">
+    <state width="1396" height="210" key="GridCell.Tab.0.center/0.23.1440.832@0.23.1440.832" timestamp="1612891139281" />
+    <state width="1396" height="210" key="GridCell.Tab.0.left" timestamp="1612891139280">
       <screen x="0" y="23" width="1440" height="832" />
     </state>
-    <state width="1396" height="209" key="GridCell.Tab.0.left/0.23.1440.832@0.23.1440.832" timestamp="1612866879516" />
-    <state width="1396" height="209" key="GridCell.Tab.0.right" timestamp="1612866879518">
+    <state width="1396" height="210" key="GridCell.Tab.0.left/0.23.1440.832@0.23.1440.832" timestamp="1612891139280" />
+    <state width="1396" height="210" key="GridCell.Tab.0.right" timestamp="1612891139281">
       <screen x="0" y="23" width="1440" height="832" />
     </state>
-    <state width="1396" height="209" key="GridCell.Tab.0.right/0.23.1440.832@0.23.1440.832" timestamp="1612866879518" />
-    <state width="1396" height="260" key="GridCell.Tab.1.bottom" timestamp="1612854863672">
+    <state width="1396" height="210" key="GridCell.Tab.0.right/0.23.1440.832@0.23.1440.832" timestamp="1612891139281" />
+    <state width="1396" height="261" key="GridCell.Tab.1.bottom" timestamp="1612889706764">
       <screen x="0" y="23" width="1440" height="832" />
     </state>
-    <state width="1396" height="260" key="GridCell.Tab.1.bottom/0.23.1440.832@0.23.1440.832" timestamp="1612854863672" />
-    <state width="1396" height="260" key="GridCell.Tab.1.center" timestamp="1612854863671">
+    <state width="1396" height="261" key="GridCell.Tab.1.bottom/0.23.1440.832@0.23.1440.832" timestamp="1612889706764" />
+    <state width="1396" height="261" key="GridCell.Tab.1.center" timestamp="1612889706762">
       <screen x="0" y="23" width="1440" height="832" />
     </state>
-    <state width="1396" height="260" key="GridCell.Tab.1.center/0.23.1440.832@0.23.1440.832" timestamp="1612854863671" />
-    <state width="1396" height="260" key="GridCell.Tab.1.left" timestamp="1612854863671">
+    <state width="1396" height="261" key="GridCell.Tab.1.center/0.23.1440.832@0.23.1440.832" timestamp="1612889706762" />
+    <state width="1396" height="261" key="GridCell.Tab.1.left" timestamp="1612889706762">
       <screen x="0" y="23" width="1440" height="832" />
     </state>
-    <state width="1396" height="260" key="GridCell.Tab.1.left/0.23.1440.832@0.23.1440.832" timestamp="1612854863671" />
-    <state width="1396" height="260" key="GridCell.Tab.1.right" timestamp="1612854863671">
+    <state width="1396" height="261" key="GridCell.Tab.1.left/0.23.1440.832@0.23.1440.832" timestamp="1612889706762" />
+    <state width="1396" height="261" key="GridCell.Tab.1.right" timestamp="1612889706763">
       <screen x="0" y="23" width="1440" height="832" />
     </state>
-    <state width="1396" height="260" key="GridCell.Tab.1.right/0.23.1440.832@0.23.1440.832" timestamp="1612854863671" />
+    <state width="1396" height="261" key="GridCell.Tab.1.right/0.23.1440.832@0.23.1440.832" timestamp="1612889706763" />
     <state x="489" y="81" key="RollbackChangesDialog" timestamp="1612867063020">
       <screen x="0" y="23" width="1440" height="832" />
     </state>
@@ -309,10 +292,10 @@
       <screen x="0" y="23" width="1440" height="832" />
     </state>
     <state x="221" y="78" key="SettingsEditor/0.23.1440.832@0.23.1440.832" timestamp="1612840966056" />
-    <state x="320" y="173" key="Vcs.Push.Dialog.v2" timestamp="1612867288532">
+    <state x="320" y="173" key="Vcs.Push.Dialog.v2" timestamp="1612867628109">
       <screen x="0" y="23" width="1440" height="832" />
     </state>
-    <state x="320" y="173" key="Vcs.Push.Dialog.v2/0.23.1440.832@0.23.1440.832" timestamp="1612867288532" />
+    <state x="320" y="173" key="Vcs.Push.Dialog.v2/0.23.1440.832@0.23.1440.832" timestamp="1612867628109" />
     <state x="168" y="57" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1612513810784">
       <screen x="0" y="23" width="1440" height="832" />
     </state>
@@ -321,17 +304,24 @@
       <screen x="0" y="23" width="1440" height="832" />
     </state>
     <state x="458" y="129" key="extract.method.dialog/0.23.1440.832@0.23.1440.832" timestamp="1612328100597" />
-    <state x="421" y="180" width="598" height="518" key="find.popup" timestamp="1612861682887">
+    <state x="421" y="180" width="598" height="518" key="find.popup" timestamp="1612889753561">
       <screen x="0" y="23" width="1440" height="832" />
     </state>
-    <state x="421" y="180" width="598" height="518" key="find.popup/0.23.1440.832@0.23.1440.832" timestamp="1612861682887" />
+    <state x="421" y="180" width="598" height="518" key="find.popup/0.23.1440.832@0.23.1440.832" timestamp="1612889753561" />
     <state x="546" y="218" key="refactoring.ChangeSignatureDialog" timestamp="1612328329481">
       <screen x="0" y="23" width="1440" height="832" />
     </state>
     <state x="546" y="218" key="refactoring.ChangeSignatureDialog/0.23.1440.832@0.23.1440.832" timestamp="1612328329481" />
-    <state x="385" y="179" width="670" height="676" key="search.everywhere.popup" timestamp="1612853517215">
+    <state x="385" y="179" width="670" height="676" key="search.everywhere.popup" timestamp="1612882235270">
       <screen x="0" y="23" width="1440" height="832" />
     </state>
-    <state x="385" y="179" width="670" height="676" key="search.everywhere.popup/0.23.1440.832@0.23.1440.832" timestamp="1612853517215" />
+    <state x="385" y="179" width="670" height="676" key="search.everywhere.popup/0.23.1440.832@0.23.1440.832" timestamp="1612882235270" />
+  </component>
+  <component name="XDebuggerManager">
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo typeName="com.selenium.webui.page.HomePage" fieldName="searchBox" />
+      </pinned-members>
+    </pin-to-top-manager>
   </component>
 </project>

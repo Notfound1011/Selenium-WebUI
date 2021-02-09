@@ -194,6 +194,7 @@ public class Page {
                 field.setAccessible(true);
                 try {
                     if (!manager.weIsDisplayed((WebElement)(field.get(this)))) {
+                        System.out.println("xxxx"+false);
                         flag = false;
                     }
                 } catch (Exception e) {

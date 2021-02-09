@@ -17,8 +17,8 @@ import static com.selenium.webui.utils.Constants.SUCCESS;
  */
 
 @Test
-public class TestHomeSearchPage extends TestPage {
-    private static final Logger logger = Logger.getLogger(TestHomeSearchPage.class);
+public class TestHomePage extends TestPage {
+    private static final Logger logger = Logger.getLogger(TestHomePage.class);
 
     @BeforeClass
     public void init() {
@@ -28,24 +28,19 @@ public class TestHomeSearchPage extends TestPage {
 
 
     @Parameters({"words", "browser"})
-    public void testSearch(String words, String browser) {
-    	logger.debug(Constants.REG+"testLogin"+Constants.REG);
-//        page = ((LoginPage)page).login(userId, password);
-    	HomeSearchPage homesearchpage = Page.initPage(HomeSearchPage.class);
-        ReturnValue rv = homesearchpage.search(words, browser);
+    public void testSelectKeyword(String words, String browser) {
+    	logger.debug(Constants.REG+"testSelectKeyword"+Constants.REG);
+    	HomePage homepage = Page.initPage(HomePage.class);
+        ReturnValue rv = homepage.selectKeyword(words, browser);
         logger.info(page);
-       // page = rv.getPage();
         Assert.assertEquals(rv.getError(), SUCCESS);
     }
 
-    @Parameters({"words", "browser"})
-    public void testClick(String words, String browser) {
-        logger.debug(Constants.REG+"testLogin"+Constants.REG);
-//        page = ((LoginPage)page).login(userId, password);
-        HomeSearchPage homesearchpage = Page.initPage(HomeSearchPage.class);
-        ReturnValue rv = homesearchpage.search(words, browser);
+    public void testSelectCity() {
+        logger.debug(Constants.REG+"testSelectCity"+Constants.REG);
+        HomePage homesearchpage = Page.initPage(HomePage.class);
+        ReturnValue rv = homesearchpage.selectCity();
         logger.info(page);
-        // page = rv.getPage();
         Assert.assertEquals(rv.getError(), SUCCESS);
     }
 

@@ -168,6 +168,8 @@ PO模式
 
 3.逻辑层
 
+- 定义页面元素，并在类加载时调用initElements方法实现元素初始化
+
 ```java
 // PageFactory模式
     public static <T> T initPage(Class<T> clz) {
@@ -184,30 +186,52 @@ PO模式
     }
 
 public class HomeSearchPage extends Page {
-
-	private static final String url = "login";
 	private static final Logger logger = Logger.getLogger(HomeSearchPage.class);
 
-	@FindBy(name = "wd")
-	private WebElement keyword;
+	@FindBy(id = "states-autocomplete")
+	private WebElement searchBox;
 
-	@FindBy(id = "su")
-	private WebElement baiduSearch;
+	@FindBy(xpath = "//div[@class=\"item item-type-103\"][1]")
+	private WebElement selectKeyword;
 
-	private WebElement baiduLogo;
+	@FindBy(xpath = "//div[text()=\"搜索民宿\"]")
+	private WebElement searchButton;
 ```
 
-定义页面元素，并在类加载时调用initElements方法实现元素初始化
+- 页面健康检查，页面类中被FindBy注解的字段都会检查是否存在
+
+```
+      public boolean healthCheck() {
+        boolean flag = true;
+        for (Field field : this.getClass().getDeclaredFields()) {
+            if (field.isAnnotationPresent(FindBy.class)) {
+                field.setAccessible(true);
+                try {
+                    if (!manager.weIsDisplayed((WebElement)(field.get(this)))) {
+                        flag = false;
+                    }
+                } catch (Exception e) {
+                    flag = false;
+                    logger.warn(e.getMessage());
+                    e.printStackTrace();
+                }
+            }
+        }
+        return flag;
+    }
+```
+
+
 
 4.业务层
 
 ```
     @Parameters({"words", "browser"})
     public void testSearch(String words, String browser) {
-    	logger.debug(Constants.REG+"testLogin"+Constants.REG);
+    	logger.debug(Constants.REG+"testSearch"+Constants.REG);
 //        page = ((LoginPage)page).login(userId, password);
-    	HomeSearchPage homesearchpage = Page.initPage(HomeSearchPage.class);
-        ReturnValue rv = homesearchpage.search(words, browser);
+    	HomePage homepage = Page.initPage(HomePage.class);
+        ReturnValue rv = homepage.search(words, browser);
         logger.info(page);
        // page = rv.getPage();
         Assert.assertEquals(rv.getError(), SUCCESS);
@@ -278,7 +302,7 @@ pom.xml中加入插件，使用mvn install clean运行testng.xml中的测试用�
 
 报告目录：test-output/html/index.html
 
-![image-20210209182527553](/Users/shiyuyu/Library/Application Support/typora-user-images/image-20210209182527553.png)
+![image-20210209182527553](src/main/resources/imagesMD/image-20210209182527553.png)
 
 ### 五、持续集成
 
@@ -290,5 +314,5 @@ pom.xml中加入插件，使用mvn install clean运行testng.xml中的测试用�
 
 3.查看报告
 
-![image-20210209183223161](/Users/shiyuyu/Library/Application Support/typora-user-images/image-20210209183223161.png)
+![image-20210209183223161](src/main/resources/imagesMD/image-20210209183223161.png)
 
