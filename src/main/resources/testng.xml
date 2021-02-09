@@ -1,0 +1,35 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Selenium Automation Test" verbose="1" >
+    <listeners>
+        <listener class-name="org.uncommons.reportng.HTMLReporter"/>
+        <listener class-name="org.uncommons.reportng.JUnitXMLReporter"/>
+    </listeners>
+
+    <test name =" Selenium UI Test" preserve-order="true" >
+    <classes>
+        <class name="com.selenium.webui.page.TestHomeSearchPage">
+            <methods>
+                <include name="testSearch"/>
+                <include name="testClick"/>
+            </methods>
+        </class>
+    </classes>
+
+    </test>    
+    
+    <test name ="Teardown Test" preserve-order="true" >
+        <classes>
+            <class name = "com.selenium.webui.TestPage">
+                <methods>
+                    <include name="shutDown"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+
+    <parameter name="host" value="www.baidu.com" />
+    <parameter name="browser" value="chrome"/>
+    <parameter name="words" value="selenium"/>
+
+
+</suite>
