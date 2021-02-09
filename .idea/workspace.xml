@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0b3e7dee-77e7-4151-8960-605940bb3da9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    </list>
+    <list id="e04c868e-0229-4945-8d26-072eaf9db0d6" name="Revert &quot;first commit&quot;" comment="Revert &quot;first commit&quot;&#10;&#10;This reverts commit 34fdcf5d">
+      <change beforePath="$PROJECT_DIR$/.\screenshot\Exception_weIsDisplayed_20210209162802.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.\screenshot\Exception_weIsDisplayed_20210209162804.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.\screenshot\Exception_weIsDisplayed_20210209165125.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.\screenshot\Exception_weIsDisplayed_20210209165127.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.\screenshot\Exception_weIsDisplayed_20210209171530.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.\screenshot\Exception_weIsDisplayed_20210209171531.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.\screenshot\Exception_weIsDisplayed_20210209180816.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.\screenshot\Exception_weIsDisplayed_20210209180818.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.\screenshot\Exception_weIsDisplayed_20210209181346.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.\screenshot\Exception_weIsDisplayed_20210209181348.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.\screenshot\Exception_weIsDisplayed_20210209182315.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.\screenshot\Exception_weIsDisplayed_20210209182316.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.\screenshot\Exception_weIsDisplayed_20210209182442.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.\screenshot\Exception_weIsDisplayed_20210209182443.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.\screenshot\Exception_weIsDisplayed_20210209182452.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.\screenshot\Exception_weIsDisplayed_20210209182454.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.\screenshot\Execption_elementExist_20210205163829.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.\screenshot\Execption_navigateTo_20210205163757.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.\screenshot\Execption_weIsDisplayed_20210205163921.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.\screenshot\Execption_weIsDisplayed_20210205163922.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.\screenshot\Execption_weIsDisplayed_20210205163955.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.\screenshot\Execption_weIsDisplayed_20210205164031.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.\screenshot\Execption_weIsDisplayed_20210205164327.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.\screenshot\Execption_weIsDisplayed_20210208175920.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.\screenshot\Execption_weIsDisplayed_20210208175922.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.\screenshot\Execption_weIsDisplayed_20210209101555.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.\screenshot\Execption_weIsDisplayed_20210209101556.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+    </list>
+    <list id="daa710f9-89f5-4624-a53b-405d5ddf6116" name="Revert &quot;Revert &quot;commit&quot;&quot;" comment="Revert &quot;Revert &quot;commit&quot;&quot;&#10;&#10;This reverts commit 408460f3">
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/selenium/webui/Browser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/selenium/webui/LocatorType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/selenium/webui/core/Config.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/selenium/webui/core/DriverManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/selenium/webui/core/FailureAction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/selenium/webui/core/WebDriverFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/selenium/webui/page/HomeSearchPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/selenium/webui/page/Page.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/selenium/webui/page/ReturnValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/selenium/webui/utils/Constants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/selenium/webui/utils/FileManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/selenium/webui/utils/JsonFileParser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/selenium/webui/utils/ResourcePathParser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/selenium/webui/utils/SshCmd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/selenium/webui/utils/Util.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/testng.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/webdriver/IEDriverServer.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/webdriver/chromedriver" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/webdriver/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/webdriver/geckodriver" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/webdriver/geckodriver_0.11.0.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/webdriver/geckodriver_0.17.0.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/selenium/webui/TestPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/selenium/webui/page/TestHomeSearchPage.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectId" id="1nx9hdShR9fxjbuHvQPvj1RxRGG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="TODO_SCOPE" value="All Places" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.selenium.webui.page" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.selenium.webui.page" />
+      <recent name="com.selenium.webui" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+      <recent name="$PROJECT_DIR$/src/main/resources/webdriver" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/selenium/webui" />
+      <recent name="$PROJECT_DIR$/src/main/java/com/selenium/webui/core" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG./Users/shiyuyu/IdeaProjects/Selenium-WebUI/src/main/resources/testng.xml">
+    <configuration name="FileManager" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.selenium.webui.utils.FileManager" />
+      <module name="Selenium-WebUI" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.selenium.webui.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ResourcePathParser" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.selenium.webui.utils.ResourcePathParser" />
+      <module name="Selenium-WebUI" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.selenium.webui.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SshCmd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.selenium.webui.utils.SshCmd" />
+      <module name="Selenium-WebUI" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.selenium.webui.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.selenium.webui.utils.test" />
+      <module name="Selenium-WebUI" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.selenium.webui.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/Users/shiyuyu/IdeaProjects/Selenium-WebUI/src/main/resources/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Selenium-WebUI" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/main/resources/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG./Users/shiyuyu/IdeaProjects/Selenium-WebUI/src/main/resources/testng.xml" />
+        <item itemvalue="Application.test" />
+        <item itemvalue="Application.SshCmd" />
+        <item itemvalue="Application.ResourcePathParser" />
+        <item itemvalue="Application.FileManager" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0b3e7dee-77e7-4151-8960-605940bb3da9" name="Default Changelist" comment="" />
+      <created>1612320994647</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1612320994647</updated>
+      <workItem from="1612320998764" duration="16255000" />
+      <workItem from="1612776881771" duration="28219000" />
+    </task>
+    <task id="LOCAL-00001" summary="Revert &quot;commit&quot;">
+      <created>1612867269774</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1612867269774</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Revert &quot;commit&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Revert &quot;commit&quot;" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="456" y="217" key="#com.intellij.codeInsight.template.impl.EditVariableDialog" timestamp="1612510855857">
+      <screen x="0" y="23" width="1440" height="832" />
+    </state>
+    <state x="456" y="217" key="#com.intellij.codeInsight.template.impl.EditVariableDialog/0.23.1440.832@0.23.1440.832" timestamp="1612510855857" />
+    <state x="184" y="99" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1612860931308">
+      <screen x="0" y="23" width="1440" height="832" />
+    </state>
+    <state x="184" y="99" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.832@0.23.1440.832" timestamp="1612860931308" />
+    <state x="287" y="26" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog" timestamp="1612861834529">
+      <screen x="0" y="23" width="1440" height="832" />
+    </state>
+    <state x="287" y="26" key="#com.intellij.openapi.keymap.impl.ui.EditKeymapsDialog/0.23.1440.832@0.23.1440.832" timestamp="1612861834529" />
+    <state x="479" y="303" width="482" height="275" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1612840788365">
+      <screen x="0" y="23" width="1440" height="832" />
+    </state>
+    <state x="479" y="303" width="482" height="275" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.23.1440.832@0.23.1440.832" timestamp="1612840788365" />
+    <state x="458" y="191" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1612854949659">
+      <screen x="0" y="23" width="1440" height="832" />
+    </state>
+    <state x="458" y="191" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.832@0.23.1440.832" timestamp="1612854949659" />
+    <state x="296" y="23" key="CommitChangelistDialog2" timestamp="1612867310822">
+      <screen x="0" y="23" width="1440" height="832" />
+    </state>
+    <state x="296" y="23" key="CommitChangelistDialog2/0.23.1440.832@0.23.1440.832" timestamp="1612867310822" />
+    <state width="1396" height="209" key="GridCell.Tab.0.bottom" timestamp="1612866879519">
+      <screen x="0" y="23" width="1440" height="832" />
+    </state>
+    <state width="1396" height="209" key="GridCell.Tab.0.bottom/0.23.1440.832@0.23.1440.832" timestamp="1612866879519" />
+    <state width="1396" height="209" key="GridCell.Tab.0.center" timestamp="1612866879517">
+      <screen x="0" y="23" width="1440" height="832" />
+    </state>
+    <state width="1396" height="209" key="GridCell.Tab.0.center/0.23.1440.832@0.23.1440.832" timestamp="1612866879517" />
+    <state width="1396" height="209" key="GridCell.Tab.0.left" timestamp="1612866879516">
+      <screen x="0" y="23" width="1440" height="832" />
+    </state>
+    <state width="1396" height="209" key="GridCell.Tab.0.left/0.23.1440.832@0.23.1440.832" timestamp="1612866879516" />
+    <state width="1396" height="209" key="GridCell.Tab.0.right" timestamp="1612866879518">
+      <screen x="0" y="23" width="1440" height="832" />
+    </state>
+    <state width="1396" height="209" key="GridCell.Tab.0.right/0.23.1440.832@0.23.1440.832" timestamp="1612866879518" />
+    <state width="1396" height="260" key="GridCell.Tab.1.bottom" timestamp="1612854863672">
+      <screen x="0" y="23" width="1440" height="832" />
+    </state>
+    <state width="1396" height="260" key="GridCell.Tab.1.bottom/0.23.1440.832@0.23.1440.832" timestamp="1612854863672" />
+    <state width="1396" height="260" key="GridCell.Tab.1.center" timestamp="1612854863671">
+      <screen x="0" y="23" width="1440" height="832" />
+    </state>
+    <state width="1396" height="260" key="GridCell.Tab.1.center/0.23.1440.832@0.23.1440.832" timestamp="1612854863671" />
+    <state width="1396" height="260" key="GridCell.Tab.1.left" timestamp="1612854863671">
+      <screen x="0" y="23" width="1440" height="832" />
+    </state>
+    <state width="1396" height="260" key="GridCell.Tab.1.left/0.23.1440.832@0.23.1440.832" timestamp="1612854863671" />
+    <state width="1396" height="260" key="GridCell.Tab.1.right" timestamp="1612854863671">
+      <screen x="0" y="23" width="1440" height="832" />
+    </state>
+    <state width="1396" height="260" key="GridCell.Tab.1.right/0.23.1440.832@0.23.1440.832" timestamp="1612854863671" />
+    <state x="489" y="81" key="RollbackChangesDialog" timestamp="1612867063020">
+      <screen x="0" y="23" width="1440" height="832" />
+    </state>
+    <state x="489" y="81" key="RollbackChangesDialog/0.23.1440.832@0.23.1440.832" timestamp="1612867063020" />
+    <state x="221" y="78" key="SettingsEditor" timestamp="1612840966056">
+      <screen x="0" y="23" width="1440" height="832" />
+    </state>
+    <state x="221" y="78" key="SettingsEditor/0.23.1440.832@0.23.1440.832" timestamp="1612840966056" />
+    <state x="320" y="173" key="Vcs.Push.Dialog.v2" timestamp="1612867288532">
+      <screen x="0" y="23" width="1440" height="832" />
+    </state>
+    <state x="320" y="173" key="Vcs.Push.Dialog.v2/0.23.1440.832@0.23.1440.832" timestamp="1612867288532" />
+    <state x="168" y="57" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1612513810784">
+      <screen x="0" y="23" width="1440" height="832" />
+    </state>
+    <state x="168" y="57" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.23.1440.832@0.23.1440.832" timestamp="1612513810784" />
+    <state x="458" y="129" key="extract.method.dialog" timestamp="1612328100597">
+      <screen x="0" y="23" width="1440" height="832" />
+    </state>
+    <state x="458" y="129" key="extract.method.dialog/0.23.1440.832@0.23.1440.832" timestamp="1612328100597" />
+    <state x="421" y="180" width="598" height="518" key="find.popup" timestamp="1612861682887">
+      <screen x="0" y="23" width="1440" height="832" />
+    </state>
+    <state x="421" y="180" width="598" height="518" key="find.popup/0.23.1440.832@0.23.1440.832" timestamp="1612861682887" />
+    <state x="546" y="218" key="refactoring.ChangeSignatureDialog" timestamp="1612328329481">
+      <screen x="0" y="23" width="1440" height="832" />
+    </state>
+    <state x="546" y="218" key="refactoring.ChangeSignatureDialog/0.23.1440.832@0.23.1440.832" timestamp="1612328329481" />
+    <state x="385" y="179" width="670" height="676" key="search.everywhere.popup" timestamp="1612853517215">
+      <screen x="0" y="23" width="1440" height="832" />
+    </state>
+    <state x="385" y="179" width="670" height="676" key="search.everywhere.popup/0.23.1440.832@0.23.1440.832" timestamp="1612853517215" />
+  </component>
+</project>
