@@ -314,5 +314,5 @@ pom.xml中加入插件，使用mvn install clean运行testng.xml中的测试用�
 
 3.查看报告
 
-![image-20210209183223161](src/main/resources/imagesMD/image-20210209183223161.png)
+![image-20210209183223161](src/main/resources/imagesMD/image-20210210022620254.png)
 

@@ -10,10 +10,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0b3e7dee-77e7-4151-8960-605940bb3da9" name="Default Changelist" comment="更新md文档、调整测试用例、截图保存路径">
-      <change afterPath="$PROJECT_DIR$/src/main/resources/imagesMD/image-20210210022620254.png" afterDir="false" />
+    <list default="true" id="0b3e7dee-77e7-4151-8960-605940bb3da9" name="Default Changelist" comment="替换图片">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/imagesMD/image-20210209183223161.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <list id="e04c868e-0229-4945-8d26-072eaf9db0d6" name="Revert &quot;first commit&quot;" comment="Revert &quot;first commit&quot;&#10;&#10;This reverts commit 34fdcf5d" />
     <list id="daa710f9-89f5-4624-a53b-405d5ddf6116" name="Revert &quot;Revert &quot;commit&quot;&quot;" comment="Revert &quot;Revert &quot;commit&quot;&quot;&#10;&#10;This reverts commit 408460f3" />
@@ -160,7 +159,7 @@
       <workItem from="1612320998764" duration="16255000" />
       <workItem from="1612776881771" duration="28629000" />
       <workItem from="1612879421854" duration="112000" />
-      <workItem from="1612879555027" duration="12803000" />
+      <workItem from="1612879555027" duration="12878000" />
     </task>
     <task id="LOCAL-00001" summary="Revert &quot;commit&quot;">
       <created>1612867269774</created>
@@ -183,7 +182,14 @@
       <option name="project" value="LOCAL" />
       <updated>1612891213070</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="替换图片">
+      <created>1612895297365</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1612895297365</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -205,7 +211,8 @@
     <MESSAGE value="Revert &quot;commit&quot;" />
     <MESSAGE value="idea settings" />
     <MESSAGE value="更新md文档、调整测试用例、截图保存路径" />
-    <option name="LAST_COMMIT_MESSAGE" value="更新md文档、调整测试用例、截图保存路径" />
+    <MESSAGE value="替换图片" />
+    <option name="LAST_COMMIT_MESSAGE" value="替换图片" />
   </component>
   <component name="WindowStateProjectService">
     <state x="208" y="23" width="1024" height="832" key="#Project_Structure" timestamp="1612886181389">
@@ -288,10 +295,10 @@
       <screen x="0" y="23" width="1440" height="832" />
     </state>
     <state x="221" y="78" key="SettingsEditor/0.23.1440.832@0.23.1440.832" timestamp="1612840966056" />
-    <state x="320" y="173" key="Vcs.Push.Dialog.v2" timestamp="1612891219926">
+    <state x="320" y="173" key="Vcs.Push.Dialog.v2" timestamp="1612895315624">
       <screen x="0" y="23" width="1440" height="832" />
     </state>
-    <state x="320" y="173" key="Vcs.Push.Dialog.v2/0.23.1440.832@0.23.1440.832" timestamp="1612891219926" />
+    <state x="320" y="173" key="Vcs.Push.Dialog.v2/0.23.1440.832@0.23.1440.832" timestamp="1612895315624" />
     <state x="168" y="57" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1612513810784">
       <screen x="0" y="23" width="1440" height="832" />
     </state>
